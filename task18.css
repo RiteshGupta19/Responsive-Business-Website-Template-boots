@@ -1,0 +1,57 @@
+
+.aa{
+  width: 4%;
+}
+.tit{
+  height: 50px;
+}
+.car{
+  height: 500px;
+}
+.bot{
+  border: 2px solid white;
+  border-bottom-color: rgb(194, 189, 189);
+}
+.img2{
+  height: 230px;
+}
+.img3{
+  height: 100%;
+}
+.im .col img{
+  height: 230px;
+}
+.wi{
+  width: 75%;
+}
+li:hover{
+background-color: rgb(245, 242, 242);
+border-radius: 10px;
+}
+@media (max-width:700px){
+
+  .aa{
+    width: 10%;
+  }
+  .img2{
+    height: 330px;
+  }
+  .car{
+    height: 400px;
+  }
+}
+@media (max-width:400px){
+
+  .aa{
+    width: 15%;
+  }
+  .wi{
+    width: 95%;
+  }
+  .img2{
+    height: 220px;
+  }
+  .car{
+    height: 300px;
+  }
+ }
